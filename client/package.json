@@ -37,6 +37,6 @@
     "nth-check@1.0.2": "2.0.1"
   },
   "devDependencies": {
-    "nasa-project": "file:.."
+    
   }
 }
